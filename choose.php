@@ -21,7 +21,7 @@
 		<div>
 		<button><a class="" href="student.php">Student</a></button>
 			<button><a class="" href="lecturer.php">Lecturer</a></button>
-			<button><a class="" href="admin.php">Admin</a></button>
+			<!-- <button><a class="" href="admin.php">Admin</a></button> -->
 		</div>
 		 <br>
 			<div><button><a class="" href="index.html">back</a></button></div>
